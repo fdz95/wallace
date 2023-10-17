@@ -1,0 +1,15 @@
+UPDATES LOG
+
+02/02/21
+- add column user (t_comandas_c, t_pedidos_c)
+- add column precio_ping_pong (t_config)
+- update main files
+- add new file comandasF.php .js ajax/get
+
+20/02/21
+
+t_config --> add column num_sesion (int) value 1000000001
+t_pedidos_c --> add column sesion (int)
+
+create modal_logout.html
+update index.php, printRecipt.php , logout.php, getVentasDiarias.php, getVentasMensuales.php
